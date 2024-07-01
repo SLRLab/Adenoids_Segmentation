@@ -1,5 +1,5 @@
 # A Demo for Adenoid Segmentation
-A network based Transformer for automatic segmentation of adenoid and nasal. 
+This repository includes the code for a model based Transformer for automatic segmentation of adenoid and nasal.
 
 ### Task Description
 <img align="left" src="imgs/example1.png" title="Angular" hspace="10" width="150"/>
@@ -7,7 +7,7 @@ A network based Transformer for automatic segmentation of adenoid and nasal.
 <img align="left" src="imgs/example2.jpg" title="Angular" hspace="10" width="150"/>
 <img align="left" src="imgs/example2_mask.png" title="Angular" hspace="20" width="150"/>
 <br/><br/><br/><br/><br/><br/><br/>
-Red areas mean Adenoid and green areas mean Nasal.
+In the preview pictures, the left pictures are Adenoid endoscopic images. And the right pictures are masked images annotated by experienced doctors. In these pictures, red areas mean adenoid and green areas mean nasal.
 
 
 ### Environment
@@ -17,6 +17,9 @@ Red areas mean Adenoid and green areas mean Nasal.
 
 ### Network Overview
 ![Network](imgs/Network.png)
+
+
+
 
 ### File Description
 - `dataloader.py`: a packaged dataloader for preprocessing adenoid images.
