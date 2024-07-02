@@ -2,7 +2,7 @@
 This repository includes the code for a model based Transformer for automatic segmentation of adenoid and nasal.
 
 ### Task Description
-[example](imgs/example_img.png)
+![example](imgs/example_img.png)
 
 
 ### Environment
