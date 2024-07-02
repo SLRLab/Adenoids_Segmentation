@@ -2,12 +2,7 @@
 This repository includes the code for a model based Transformer for automatic segmentation of adenoid and nasal.
 
 ### Task Description
-<img align="left" src="imgs/example1.png" title="Angular" hspace="10" width="150"/>
-<img align="left" src="imgs/example1_mask.png"  title="Angular" hspace="20" width="150"/>
-<img align="left" src="imgs/example2.jpg" title="Angular" hspace="10" width="150"/>
-<img align="left" src="imgs/example2_mask.png" title="Angular" hspace="20" width="150"/>
-<br/><br/><br/><br/><br/><br/><br/>
-In the preview pictures, the left pictures are Adenoid endoscopic images. And the right pictures are masked images annotated by experienced doctors. In these pictures, red areas mean adenoid and green areas mean nasal.
+[example](imgs/example_img.png)
 
 
 ### Environment
