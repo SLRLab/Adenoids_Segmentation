@@ -3,7 +3,7 @@ This repository includes the code for a model based Transformer for automatic se
 
 ### Task Description
 ![example](imgs/example_img.png)
-
+In the preview pictures, the left pictures are Adenoid endoscopic images. And the right pictures are masked images annotated by experienced doctors. In these pictures, red areas mean adenoid and green areas mean nasal.
 
 ### Environment
 - OS Version: Ubuntu 16.04
